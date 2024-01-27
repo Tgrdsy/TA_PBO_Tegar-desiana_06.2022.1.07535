@@ -1,0 +1,98 @@
+[
+  {
+    "idTransaksi": 0,
+    "noAntrian": 261,
+    "poli": {
+      "idPoli": 1,
+      "namaPoli": "poli anak ",
+      "pasien": {
+        "nama": "yyyy",
+        "alamat": "yyy",
+        "kelamin": "p",
+        "ttl": "12-12-1854",
+        "nik": 12,
+        "bpjs": 1234
+      }
+    }
+  },
+  {
+    "idTransaksi": 0,
+    "noAntrian": 803,
+    "poli": {
+      "idPoli": 2,
+      "namaPoli": "poli umum",
+      "pasien": {
+        "nama": "yyyy",
+        "alamat": "yyy",
+        "kelamin": "p",
+        "ttl": "12-12-1854",
+        "nik": 12,
+        "bpjs": 1234
+      }
+    }
+  },
+  {
+    "idTransaksi": 0,
+    "noAntrian": 273,
+    "poli": {
+      "idPoli": 1,
+      "namaPoli": "poli anak",
+      "pasien": {
+        "nama": "yaya",
+        "alamat": "yayay",
+        "kelamin": "l",
+        "ttl": "12-12-1487",
+        "nik": 12,
+        "bpjs": 123
+      }
+    }
+  },
+  {
+    "idTransaksi": 0,
+    "noAntrian": 808,
+    "poli": {
+      "idPoli": 2,
+      "namaPoli": "poli gigi",
+      "pasien": {
+        "nama": "yaya",
+        "alamat": "yayay",
+        "kelamin": "l",
+        "ttl": "12-12-1487",
+        "nik": 12,
+        "bpjs": 123
+      }
+    }
+  },
+  {
+    "idTransaksi": 0,
+    "noAntrian": 695,
+    "poli": {
+      "idPoli": 5,
+      "namaPoli": "poli kulit",
+      "pasien": {
+        "nama": "tegar",
+        "alamat": "sby",
+        "kelamin": "p",
+        "ttl": "12-12-1999",
+        "nik": 12,
+        "bpjs": 123
+      }
+    }
+  },
+  {
+    "idTransaksi": 0,
+    "noAntrian": 987,
+    "poli": {
+      "idPoli": 1,
+      "namaPoli": "poli anak",
+      "pasien": {
+        "nama": "tegar",
+        "alamat": "sby",
+        "kelamin": "p",
+        "ttl": "12-12-1999",
+        "nik": 12,
+        "bpjs": 123
+      }
+    }
+  }
+]

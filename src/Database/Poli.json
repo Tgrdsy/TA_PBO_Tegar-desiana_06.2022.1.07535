@@ -1,0 +1,46 @@
+[
+  {
+    "idPoli": 1,
+    "namaPoli": "poli anak",
+    "pasien": {
+      "nama": "tegar",
+      "alamat": "sby",
+      "kelamin": "p",
+      "ttl": "12-12-1999",
+      "nik": 12,
+      "bpjs": 123
+    }
+  },
+  {
+    "idPoli": 2,
+    "namaPoli": "poli gigi",
+    "pasien": {
+      "nama": "yaya",
+      "alamat": "yayay",
+      "kelamin": "l",
+      "ttl": "12-12-1487",
+      "nik": 12,
+      "bpjs": 123
+    }
+  },
+  {
+    "idPoli": 3,
+    "namaPoli": "poli gizi"
+  },
+  {
+    "idPoli": 4,
+    "namaPoli": "poli umum"
+  },
+  {
+    "idPoli": 5,
+    "namaPoli": "poli kulit",
+    "pasien": {
+      "nama": "tegar",
+      "alamat": "sby",
+      "kelamin": "p",
+      "ttl": "12-12-1999",
+      "nik": 12,
+      "bpjs": 123
+    }
+  }
+]
